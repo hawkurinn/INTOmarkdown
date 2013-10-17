@@ -2,20 +2,19 @@
 #Open Source
 
 1. Haukur Tómas Hafsteinsson
-2. Halldór Kjartan Þorsteinsson
 
 ## 1. Linux uppsetning
 
-Til að installa Linux notuðum við USB installerinn frá http://www.pendrivelinux.com/ og 
+Til að installa Linux notuðum ég USB installerinn frá [Pen Drive](http://www.pendrivelinux.com/) og 
 
-fórum eftir 
+fór eftir 
 
 Leiðbeiningunum frá [Ubuntu.com](http://www.ubuntu.com/download/desktop/create-a-usb-stick-on-windows)
 
-Við sóttum Ubuntu Desktop 13.04 þar sem að við vissum að sú útgáfa var “stable".
+Ég sótti Ubuntu Desktop 13.04 þar sem ég vissi að sú útgáfa var “stable".
 
-Eftir að hafa prófað að keyra Ubuntu beint af lyklinum ákváðum við að installa Ubunt þar sem að hitt olli okkur nokkrum vandræðum. 
-Uppsetning var mjög auðveld og vélin spurði síðan í booti hvort við vildum starta Ubuntu eða WIn7 (dual boot).
+Eftir að hafa prófað að keyra Ubuntu beint af lyklinum ákváð ég að installa Ubuntu þar sem að hitt olli okkur nokkrum vandræðum. 
+Uppsetning var mjög auðveld og vélin spurði síðan í booti hvort ég vildi starta Ubuntu eða WIn7 (dual boot).
 
 ![mynd][Ubuntu]
 [Ubuntu]:https://www.dropbox.com/s/lkd31lwkp9civfu/2013-10-16%2019.03.50.jpg
@@ -23,18 +22,18 @@ Uppsetning var mjög auðveld og vélin spurði síðan í booti hvort við vild
 ## 2. Uppsetning á vim & git
 
 Þessi uppsetning var mjög auðveld og gekk vandræða laust fyrir sig.
-Fórum bara eftir leiðbeiningum á verkefnaskjalinu.
-Að vísu virkaði Ctrl + T ekki en við notuðum bara leitina á Ubuntu.
+Fór bara eftir leiðbeiningum í verkefnaskjalinu.
+Að vísu virkaði Ctrl + T ekki en ég notaði bara leitina á Ubuntu.
 
 ## 3. Unnið með Git (1. hluti)
 
 Þetta gekk frekar erfiðlega til að byrja með þar sem að Firefox vildi alltaf installa 
 
-einhverju plugin sem ekkert gekk, Virkaði mjög vel eftir að chrome var sett upp. AÐ 
+einhverju plugin sem ekkert gekk, Virkaði mjög vel eftir að chrome var sett upp. Að 
 
-leita sér upplýsinga um hvernig nota eigim að nota vim og git var frekar auðvelt 
+leita sér upplýsinga um hvernig nota eigi vim og git var frekar auðvelt 
 
-með slóðunum af verkefnaskjalinu og google. Smá vesen með að commita þar sem 
+með slóðunum af verkefnaskjalinu og google. Smá vesen með að committa þar sem 
 
 að clone INTOPrufa bjó til auka undirmöppu, þegar að þangað var komið þá var það 
 
@@ -67,9 +66,9 @@ ekkert mál.
 
 ## 5. Forking a repository - part 2
 
-Þessi partur gekk frekar erfiðlega þar sem að við þekktum lítið skipanirnar sem notaðar eru til að browsa á
-milli mappa í terminal og vissum oft ekki alveg hvar við vorum staddir, en það lagaðist og þegar að við 
-áttuðum okkur á hvernig möppu strúktúrinn yrði til með "git clone" skipuninni þá gekk þetta þokkalega eftir það.
+Þessi partur gekk frekar erfiðlega þar sem að ég þekki lítið skipanirnar sem notaðar eru til að browsa á
+milli mappa í terminal og vissi oft ekki alveg hvar ég var staddur, en það lagaðist og þegar ég 
+áttaði mig á hvernig möppu strúktúrinn yrði til með "git clone" skipuninni þá gekk þetta þokkalega eftir það.
 Smá hökkt á git skipunum en annars allt í lagi. Það var reynda smá vesen líka með heimildir til að skrifa í 
 möppuna þar sem "git clone" setti möppurnar default en lagaðist með að búa til nýja möppu og flytja allt þangað.
 
