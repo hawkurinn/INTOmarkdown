@@ -44,7 +44,7 @@ ekkert mál.
 
 ## 4. Uppsettur hugbúnaður
 
-1. 7-ZIP
+1. *7-ZIP*
 
 	7-Zip er að mestu undir GNU LGPL leyfinu nema unrar kóðinn sem er undir 
 
@@ -52,12 +52,12 @@ ekkert mál.
 
 	Source Code : [Source Code](http://www.7-zip.org/)
 
-2. VLC Player
+2. *VLC Player*
 
 	VLC Playerinn er byggður á LGPL leyfinu.[VLC leyfissíðan](http://www.videolan.org/press/lgpl.html)
 	Source Code : [Source Code](http://www.videolan.org/vlc/download-sources.html)
 
-3. Code::Blocks
+3. *Code::Blocks*
 
 	Code::Blocks er undir GPL v3.0 leyfinu [Code::Blocks leyfissíðan] (http://www.codeblocks.org/license)
 	Source Code:[Source Code](http://www.codeblocks.org/downloads/25)
