@@ -20,7 +20,7 @@ Uppsetning var mjög auðveld og vélin spurði síðan í booti hvort við vild
 ![mynd][Ubuntu]
 [Ubuntu]:https://www.dropbox.com/s/lkd31lwkp9civfu/2013-10-16%2019.03.50.jpg
 
-## 2. Uppsetning á vim && git
+## 2. Uppsetning á vim & git
 
 Þessi uppsetning var mjög auðveld og gekk vandræða laust fyrir sig.
 Fórum bara eftir leiðbeiningum á verkefnaskjalinu.
