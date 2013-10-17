@@ -17,7 +17,7 @@ Eftir að hafa prófað að keyra Ubuntu beint af lyklinum ákváð ég að inst
 Uppsetning var mjög auðveld og vélin spurði síðan í booti hvort ég vildi starta Ubuntu eða WIn7 (dual boot).
 
 ![mynd][Ubuntu]
-[Ubuntu]:https://www.dropbox.com/s/lkd31lwkp9civfu/2013-10-16%2019.03.50.jpg
+[Ubuntu]:mynd.jpg
 
 ## 2. Uppsetning á vim & git
 
