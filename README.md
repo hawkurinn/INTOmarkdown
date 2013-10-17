@@ -52,10 +52,12 @@ ekkert mál.
 
 	Source Code : [Source Code](http://www.7-zip.org/)
 
+
 2. *VLC Player*
 
 	VLC Playerinn er byggður á LGPL leyfinu.[VLC leyfissíðan](http://www.videolan.org/press/lgpl.html)
 	Source Code : [Source Code](http://www.videolan.org/vlc/download-sources.html)
+
 
 3. *Code::Blocks*
 
