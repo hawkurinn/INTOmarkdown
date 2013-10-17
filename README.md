@@ -1,3 +1,4 @@
+
 #Open Source
 
 1. Haukur Tómas Hafsteinsson
@@ -63,4 +64,15 @@ ekkert mál.
 
 	Code::Blocks er undir GPL v3.0 leyfinu [Code::Blocks leyfissíðan] (http://www.codeblocks.org/license)
 	Source Code:[Source Code](http://www.codeblocks.org/downloads/25)
+
+## 5.Forking a repository - part 2
+
+Þessi partur gekk frekar erfiðlega þar sem að við þekktum lítið skipanirnar sem notaðar eru til að browsa á
+milli mappa í terminal og vissum oft ekki alveg hvar við vorum staddir, en það lagaðist og þegar að við 
+áttuðum okkur á hvernig möppu strúktúrinn yrði til með "git clone" skipuninni þá gekk þetta þokkalega eftir það.
+Smá hökkt á git skipunum en annars allt í lagi. Það var reynda smá vesen líka með heimildir til að skrifa í 
+möppuna þar sem "git clone" setti möppurnar default en lagaðist með að búa til nýja möppu og flytja allt þangað.
+
+[Repo URL](https://github.com/hawkurinn/INTOmarkdown.git
+)
 
