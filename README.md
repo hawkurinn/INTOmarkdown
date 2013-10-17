@@ -9,7 +9,7 @@ Til að installa Linux notuðum við USB installerinn frá http://www.pendriveli
 
 fórum eftir 
 
-Leiðbeiningunum frá [link](http://www.ubuntu.com/download/desktop/create-a-usb-stick-on-windows)
+Leiðbeiningunum frá [Ubuntu.com](http://www.ubuntu.com/download/desktop/create-a-usb-stick-on-windows)
 
 Við sóttum Ubuntu Desktop 13.04 þar sem að við vissum að sú útgáfa var “stable".
 
@@ -39,7 +39,7 @@ að clone INTOPrufa bjó til auka undirmöppu, þegar að þangað var komið þ
 
 ekkert mál.
 
-[link](https://github.com/hawkurinn/INTOPrufa.git)
+[Repo URL](https://github.com/hawkurinn/INTOPrufa.git)
 
 
 ## 4. Uppsettur hugbúnaður
@@ -48,17 +48,17 @@ ekkert mál.
 
 7-Zip er að mestu undir GNU LGPL leyfinu nema unrar kóðinn sem er undir 
 
-blönduðu GNU LGPL og unRar restrictinos.[link](http://www.7-zip.org/license.txt) 
+blönduðu GNU LGPL og unRar restrictinos.[7-Zip leyfissíðan](http://www.7-zip.org/license.txt) 
 
-Source Code : [link](http://www.7-zip.org/)
+Source Code : [Source Code](http://www.7-zip.org/)
 
 2. VLC Player
 
-VLC Playerinn er byggður á LGPL leyfinu.[link](http://www.videolan.org/press/lgpl.html)
-Source Code : [link](http://www.videolan.org/vlc/download-sources.html)
+VLC Playerinn er byggður á LGPL leyfinu.[VLC leyfissíðan](http://www.videolan.org/press/lgpl.html)
+Source Code : [Source Code](http://www.videolan.org/vlc/download-sources.html)
 
 3. Code::Blocks
 
-Code::Blocks er undir GPL v3.0 leyfinu [link] (http://www.codeblocks.org/license)
-Source Code:[link](http://www.codeblocks.org/downloads/25)
+Code::Blocks er undir GPL v3.0 leyfinu [Code::Blocks leyfissíðan] (http://www.codeblocks.org/license)
+Source Code:[Source Code](http://www.codeblocks.org/downloads/25)
 
